@@ -25,7 +25,7 @@ manifest:
       clone-depth: 1
     - name: zmk-dongle-display
       remote: hitsmaxft
-      revision: 97f3521a601e0a297e6822ae28d9d4808c1d5301
+      revision: 379d012702feeb85d7ff89879408283b763dece7
       clone-depth: 1
     - name: zmk-dongle-screen
       remote: janpfischer
